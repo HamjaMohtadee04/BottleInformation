@@ -1,0 +1,9 @@
+.Bottle{
+    margin: 5px;
+    border: 2px solid salmon;
+    padding: 5px;
+    border-radius: 10px;
+}
+.Bottle img{
+    width: 200px;
+}
